@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @igor_zn (Telegram)
+- Free education, free knowledges, free for all, and nothing for money
+- I'm hate politicans, they're bit..s
 
 <!---
 IgorZn/IgorZn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
