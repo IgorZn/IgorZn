@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IgorZn
-- 👀 I’m interested in Django, DRFramework, JS - express, RactJS web in general
-- 🌱 I’m currently learning JS
+- 👀 I’m interested Web development in general and Python, JS, PHP for that
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @igor_zn (Telegram)
-- Free education, free knowledges, free for all, and nothing for money
+- 📫 How to reach me tg: @igor_zn
+- Free education, knowledges, free for all and nothing for money
 - I hate politicans, they're bit..s
 
 <!---
