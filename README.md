@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IgorZn
-- 👀 I’m interested Web development in general and Python, JS, PHP for that
+- 👀 I’m interested Web development in general and Python with JS for that
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg: @igor_zn
 - Free education, knowledges, free for all and nothing for money
-- I hate politicans, they're bit..s
+- I hate politicans
 
 <!---
 IgorZn/IgorZn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
