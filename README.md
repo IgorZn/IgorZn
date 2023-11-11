@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgorZn
 - 👀 I’m interested Web development in general and Python with JS for that
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg: @igor_zn
 - Free education, knowledges, free for all and nothing for money
